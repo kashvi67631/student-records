@@ -1,0 +1,27 @@
+# 📘 Student Record Management System (CSV Version)
+
+This is a Python CLI project that allows you to **add, search, update, and display student records** using the CSV file format. It's a basic but powerful example of file handling and record management using the `csv` module.
+
+---
+
+## ✅ Features
+
+- ➕ Add new student records (Name, Roll No, Percentage, Stream)
+- 🔍 Search a student by name
+- ✏️ Update any field in a student record
+- 📋 Display all records in a clean format
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Built-in `csv` module
+- Command-line interface (CLI)
+
+---
+
+## 🚀 How to Run
+
+```bash
+python student_csv.py
